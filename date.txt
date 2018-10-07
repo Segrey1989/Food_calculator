@@ -1,0 +1,30 @@
+almond 18.6 57.7 16.1 645.0
+apple 0.4 0.4 9.8 47.0
+banana 1.5 0.5 21.0 96.0
+beer 0.5 0.0 3.5 33.0
+bread mag 6.0 0.5 50.0 230.0
+brioche sour cream 6.5 7.1 42.2 249.2
+buckwheat 12.0 2.0 67.0 334.0
+bun 7.5 9.0 55.0 330.0
+butter 60 1.3 60.0 1.7 552.0
+champignon 4.3 1.0 0.1 27.0
+cheese 50 24.6 25.5 0.0 330.0
+chocolate croissant 6.6 17.7 50.0 382.0
+cottage cheese 1 16.0 1.0 1.3 80.0
+cucumber 0.8 0.1 3.0 15.0
+egg 12.7 10.9 0.7 157.0
+flax-seed 18.3 42.2 28.9 534.0
+mango 0.8 0.4 15.0 60.0
+milk 1.5 3.0 1.5 4.7 44.3
+mozzarella 18.3 18.3 0.0 238.0
+olive oil 0.0 99.8 0.0 898.0
+orange 0.9 0.2 8.1 43.0
+pasta reggia 12.5 1.3 73.0 360.0
+pasteroni 13.0 1.9 70.3 356.0
+pine nuts 15.6 56.0 28.4 680.0
+rise 6.7 0.7 78.9 344.0
+sand pie 4.2 14.5 51.5 351.5
+sour cream 15 2.7 15.0 2.9 157.4
+soy meat 50.0 0.9 19.0 316.0
+sunflower seeds 20.7 52.9 10.5 601.0
+tomato 1.1 0.2 3.8 24.0
